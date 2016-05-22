@@ -11,6 +11,7 @@ body {
   color: #efefef; }
 
 a {
+  width:100px;
   color: #efefef;
   padding-left:50px;
   text-decoration: none;
