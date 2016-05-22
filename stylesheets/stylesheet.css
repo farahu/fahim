@@ -25,6 +25,11 @@ a:hover {
   margin:10px;
 }
 
+.memory {
+  padding:10px;
+  font-size: 14px;
+}
+
 h1 {
   font-size: 50px;
   text-align:center;
