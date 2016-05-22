@@ -11,11 +11,12 @@ body {
   color: #efefef; }
 
 a {
-  color: #1e6bb8;
+  padding-left:50px;
   text-decoration: none;
 }
 a:hover {
-  text-decoration: underline; 
+  color:#000;
+  background-color:#bfbfbf;
 }
 .console {
   padding:10px;
